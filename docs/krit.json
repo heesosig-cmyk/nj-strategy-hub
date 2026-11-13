@@ -1,6 +1,6 @@
 {
   "schema": "nj-krit-feed-v1",
-  "generatedAt": "2026-11-13T18:25:13.649068+00:00",
+  "generatedAt": "2026-11-13T18:45:22.727127+00:00",
   "agency": "국방기술진흥연구소",
   "successfulBoards": 3,
   "boardCounts": {
@@ -13,7 +13,7 @@
     {
       "title": "’26-2차 유망수출품목발굴 지원사업 참여기업 모집 연장 공고(추가연장)",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6574",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6574&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-11-05",
       "summary": "",
       "type": "사업공고·공지",
@@ -25,12 +25,13 @@
       ],
       "board": "notice",
       "sourceId": "6574",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "27-1차 방산수출 지원사업 통합설명회",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6572",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6572&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-11-04",
       "summary": "",
       "type": "사업공고·공지",
@@ -42,12 +43,13 @@
       ],
       "board": "notice",
       "sourceId": "6572",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "26-6차 무기체계 부품국산화개발 지원사업 과제 예비공고 안내",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6573",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6573&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-11-04",
       "summary": "",
       "type": "사업공고·공지",
@@ -59,12 +61,13 @@
       ],
       "board": "notice",
       "sourceId": "6573",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "’26-5차 방산 중소기업 컨설팅 지원사업 지원대상기업 모집 공고문",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6570",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6570&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-11-02",
       "summary": "",
       "type": "사업공고·공지",
@@ -76,12 +79,13 @@
       ],
       "board": "notice",
       "sourceId": "6570",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[추가 재공고]  26-2차 무기체계 부품국산화개발 지원사업 연구개발기관 모집(3차)",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6568",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6568&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-30",
       "summary": "",
       "type": "사업공고·공지",
@@ -93,12 +97,13 @@
       ],
       "board": "notice",
       "sourceId": "6568",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[전북·전주 방산혁신클러스터] (장비)사업 수행 기관 모집 (재공고)",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6567",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6567&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-30",
       "summary": "",
       "type": "사업공고·공지",
@@ -110,12 +115,13 @@
       ],
       "board": "notice",
       "sourceId": "6567",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[전북·전주 방산혁신클러스터]  국방소요기반 첨단복합 소재·부품 개발 과제 수행기업 모집(재공고)",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6566",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6566&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-30",
       "summary": "",
       "type": "사업공고·공지",
@@ -127,12 +133,13 @@
       ],
       "board": "notice",
       "sourceId": "6566",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[인천 방산혁신클러스터사업] AI 항공(대드론) 수행기관 공고문(재공고)",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6561",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6561&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-30",
       "summary": "",
       "type": "사업공고·공지",
@@ -144,12 +151,13 @@
       ],
       "board": "notice",
       "sourceId": "6561",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "K-방산 스타트업 육성사업 운영지침",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=6571",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=6571&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-10-30",
       "summary": "",
       "type": "규정·지침",
@@ -161,12 +169,13 @@
       ],
       "board": "regulatory",
       "sourceId": "6571",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "제3대 국방기술진흥연구소장 취임",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=6559",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=6559&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-10-29",
       "summary": "",
       "type": "정책·기술 동향",
@@ -178,12 +187,13 @@
       ],
       "board": "press",
       "sourceId": "6559",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[충남·논산 방산혁신클러스터사업] 「AI 국방로봇 스타트업 발굴 및 육성」사업 수행기관 모집 공고(재공고)",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6560",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6560&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-29",
       "summary": "",
       "type": "사업공고·공지",
@@ -195,12 +205,13 @@
       ],
       "board": "notice",
       "sourceId": "6560",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "2026년 하반기 절충교역 수출상담회 참여 희망업체 모집 공고",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6557",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6557&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-23",
       "summary": "",
       "type": "사업공고·공지",
@@ -212,12 +223,13 @@
       ],
       "board": "notice",
       "sourceId": "6557",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "’26-2차 유망수출품목발굴 지원사업 참여기업 모집 연장 공고",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6549",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6549&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-21",
       "summary": "",
       "type": "사업공고·공지",
@@ -229,12 +241,13 @@
       ],
       "board": "notice",
       "sourceId": "6549",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[함정 MRO 방산혁신클러스터] 사업 수행기관 모집 통합공고(재공고)",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6550",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6550&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-21",
       "summary": "",
       "type": "사업공고·공지",
@@ -246,12 +259,13 @@
       ],
       "board": "notice",
       "sourceId": "6550",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[충남·논산 방산혁신클러스터사업] 사업 수행기관 모집 통합 공고(재공고)",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6551",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6551&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-21",
       "summary": "",
       "type": "사업공고·공지",
@@ -263,12 +277,13 @@
       ],
       "board": "notice",
       "sourceId": "6551",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[전북·전주 방산혁신클러스터] 사업 수행기관 모집 통합(재공고)",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6545",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6545&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-20",
       "summary": "",
       "type": "사업공고·공지",
@@ -280,12 +295,13 @@
       ],
       "board": "notice",
       "sourceId": "6545",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[서울 신문] 제2회 국가대표 우주·방산 전략대회 홍보 공고문",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6547",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6547&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-20",
       "summary": "",
       "type": "사업공고·공지",
@@ -297,12 +313,13 @@
       ],
       "board": "notice",
       "sourceId": "6547",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[공군 군수사령부] ‘26년 후반기 부품 견본 전시회 운영계획 및 개발신청 접수 안내",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6540",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6540&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-19",
       "summary": "",
       "type": "사업공고·공지",
@@ -314,12 +331,13 @@
       ],
       "board": "notice",
       "sourceId": "6540",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "「2026 美 FCT 온라인 설명회」참여기업 모집 공고",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6539",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6539&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-16",
       "summary": "",
       "type": "사업공고·공지",
@@ -331,12 +349,13 @@
       ],
       "board": "notice",
       "sourceId": "6539",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "핵심기술 연구개발 과제관리 지침",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=32",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=32&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-10-12",
       "summary": "",
       "type": "규정·지침",
@@ -348,12 +367,13 @@
       ],
       "board": "regulatory",
       "sourceId": "32",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술 연구개발 평가업무 지침",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=6137",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=6137&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-10-12",
       "summary": "",
       "type": "규정·지침",
@@ -365,12 +385,13 @@
       ],
       "board": "regulatory",
       "sourceId": "6137",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[전북·전주 방산혁신클러스터] 초고온 환경 내열복합소재 시험평가 장비 구축사업 수행기관 모집 공고",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6529",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6529&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-12",
       "summary": "",
       "type": "사업공고·공지",
@@ -382,12 +403,13 @@
       ],
       "board": "notice",
       "sourceId": "6529",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[전북·전주 방산혁신클러스터] 극한환경 내열소재‧부품 시험평가 장비 구축 사업 수행기관 모집 공고",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6528",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6528&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-12",
       "summary": "",
       "type": "사업공고·공지",
@@ -399,12 +421,13 @@
       ],
       "board": "notice",
       "sourceId": "6528",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[전북·전주 방산혁신클러스터]  국방 소요 기반 첨단복합 소재·부품 개발사업 수행기관 모집 공고",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6530",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6530&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-12",
       "summary": "",
       "type": "사업공고·공지",
@@ -416,12 +439,13 @@
       ],
       "board": "notice",
       "sourceId": "6530",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[방위사업청] 실증시험 지원사업 내 소요연구용역 홍보(첨부수정)",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6527",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6527&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-12",
       "summary": "",
       "type": "사업공고·공지",
@@ -433,12 +457,13 @@
       ],
       "board": "notice",
       "sourceId": "6527",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "Airbus사 절충교역 사업설명회 참여 희망기업 모집 공고",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6524",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6524&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-07",
       "summary": "",
       "type": "사업공고·공지",
@@ -450,12 +475,13 @@
       ],
       "board": "notice",
       "sourceId": "6524",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[충북국방벤처센터] 2026-2차 협약 기업 모집 공고",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6521",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6521&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-06",
       "summary": "",
       "type": "사업공고·공지",
@@ -467,12 +493,13 @@
       ],
       "board": "notice",
       "sourceId": "6521",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "2026년 제5기 방산혁신기업 선정 결과(수정)",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6522",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6522&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-06",
       "summary": "",
       "type": "사업공고·공지",
@@ -484,12 +511,13 @@
       ],
       "board": "notice",
       "sourceId": "6522",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "′27-1차 방산전시회 참가 지원사업 참여기업 모집 공고문",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6518",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6518&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-02",
       "summary": "",
       "type": "사업공고·공지",
@@ -501,12 +529,13 @@
       ],
       "board": "notice",
       "sourceId": "6518",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[국방기술품질원] 27년 민·군규격표준화사업 신규 연구개발과제 공고",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6517",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6517&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-02",
       "summary": "",
       "type": "사업공고·공지",
@@ -518,12 +547,13 @@
       ],
       "board": "notice",
       "sourceId": "6517",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "26-2차 유망수출품목발굴 지원사업 참여기업 모집 공고",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6520",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6520&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-02",
       "summary": "",
       "type": "사업공고·공지",
@@ -535,12 +565,13 @@
       ],
       "board": "notice",
       "sourceId": "6520",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "2027년 방산전시회 참가 지원사업 지원계획",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6519",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6519&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-02",
       "summary": "",
       "type": "사업공고·공지",
@@ -552,12 +583,13 @@
       ],
       "board": "notice",
       "sourceId": "6519",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "’26-4차 방산 중소기업 컨설팅 지원사업 지원대상기업 모집 공고문",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6511",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6511&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-09-29",
       "summary": "",
       "type": "사업공고·공지",
@@ -569,12 +601,13 @@
       ],
       "board": "notice",
       "sourceId": "6511",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[인천 방산혁신클러스터사업] AI 항공(대드론)  수행기관 공모 안내문",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6510",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6510&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-09-29",
       "summary": "",
       "type": "사업공고·공지",
@@ -586,12 +619,13 @@
       ],
       "board": "notice",
       "sourceId": "6510",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소, 방산혁신기업의 해외 기술협력 기회 발굴 및 공동연구 지원",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=6508",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=6508&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-09-21",
       "summary": "",
       "type": "정책·기술 동향",
@@ -603,12 +637,13 @@
       ],
       "board": "press",
       "sourceId": "6508",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 - 국립소방연구원 BNNT(질화붕소나노튜브) 특허 5건 기술이전 계약 체결",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=6507",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=6507&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-09-21",
       "summary": "",
       "type": "정책·기술 동향",
@@ -620,12 +655,13 @@
       ],
       "board": "press",
       "sourceId": "6507",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 여비규정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=4320",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=4320&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-08-19",
       "summary": "",
       "type": "규정·지침",
@@ -637,12 +673,13 @@
       ],
       "board": "regulatory",
       "sourceId": "4320",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 계약규정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=4319",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=4319&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-08-19",
       "summary": "",
       "type": "규정·지침",
@@ -654,12 +691,13 @@
       ],
       "board": "regulatory",
       "sourceId": "4319",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 특별성과급 지급 지침",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=4744",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=4744&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-07-28",
       "summary": "",
       "type": "규정·지침",
@@ -671,12 +709,13 @@
       ],
       "board": "regulatory",
       "sourceId": "4744",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 취업규정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=18",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=18&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-07-28",
       "summary": "",
       "type": "규정·지침",
@@ -688,12 +727,13 @@
       ],
       "board": "regulatory",
       "sourceId": "18",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 조직 및 직무분장 지침",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=9",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=9&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-07-28",
       "summary": "",
       "type": "규정·지침",
@@ -705,12 +745,13 @@
       ],
       "board": "regulatory",
       "sourceId": "9",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 자문위원 운영지침",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=4564",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=4564&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-07-28",
       "summary": "",
       "type": "규정·지침",
@@ -722,12 +763,13 @@
       ],
       "board": "regulatory",
       "sourceId": "4564",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 위원회설치 및 운영규정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=6",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=6&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-07-28",
       "summary": "",
       "type": "규정·지침",
@@ -739,12 +781,13 @@
       ],
       "board": "regulatory",
       "sourceId": "6",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 교육훈련규정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=27",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=27&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-07-28",
       "summary": "",
       "type": "규정·지침",
@@ -756,12 +799,13 @@
       ],
       "board": "regulatory",
       "sourceId": "27",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 개방형직위 운영지침",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=34",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=34&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-07-28",
       "summary": "",
       "type": "규정·지침",
@@ -773,12 +817,13 @@
       ],
       "board": "regulatory",
       "sourceId": "34",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "민간개발 무기체계 등에 대한 성능시험지원 업무규정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=4525",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=4525&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-05-21",
       "summary": "",
       "type": "규정·지침",
@@ -790,12 +835,13 @@
       ],
       "board": "regulatory",
       "sourceId": "4525",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 운영규정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=4410",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=4410&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-05-20",
       "summary": "",
       "type": "규정·지침",
@@ -807,12 +853,13 @@
       ],
       "board": "regulatory",
       "sourceId": "4410",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "핵심기술 연구개발 과제기획 지침",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=176",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=176&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-04-22",
       "summary": "",
       "type": "규정·지침",
@@ -824,12 +871,13 @@
       ],
       "board": "regulatory",
       "sourceId": "176",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 맞춤형 복지 운영지침",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=4285",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=4285&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-04-17",
       "summary": "",
       "type": "규정·지침",
@@ -841,12 +889,13 @@
       ],
       "board": "regulatory",
       "sourceId": "4285",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "무기체계 개조개발 지원사업 운영규정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=4732",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=4732&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-03-04",
       "summary": "",
       "type": "규정·지침",
@@ -858,12 +907,13 @@
       ],
       "board": "regulatory",
       "sourceId": "4732",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "천마 핵심부품국산화 개발 사업 성공적 마무리",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=6206",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=6206&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-03-03",
       "summary": "",
       "type": "정책·기술 동향",
@@ -875,12 +925,13 @@
       ],
       "board": "press",
       "sourceId": "6206",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 위임전결규정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=5",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=5&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-02-27",
       "summary": "",
       "type": "규정·지침",
@@ -892,12 +943,13 @@
       ],
       "board": "regulatory",
       "sourceId": "5",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 연구개발비 지원사업 과제관리자 운영지침",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=6313",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=6313&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-02-27",
       "summary": "",
       "type": "규정·지침",
@@ -909,12 +961,13 @@
       ],
       "board": "regulatory",
       "sourceId": "6313",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소, '2025 국방활용가능 민간보유기술조사서' 발간",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=6140",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=6140&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-01-20",
       "summary": "",
       "type": "정책·기술 동향",
@@ -926,12 +979,13 @@
       ],
       "board": "press",
       "sourceId": "6140",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[경북·구미 방산혁신클러스터] 2026년「판로개척 지원사업」 공고문",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=6131",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6131&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-01-14",
       "summary": "",
       "type": "사업공고·공지",
@@ -943,12 +997,13 @@
       ],
       "board": "notice",
       "sourceId": "6131",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "방산수출가이드북 발간 (독일, 인도, 이집트, 튀르키예)",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=6129",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=6129&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-01-12",
       "summary": "",
       "type": "정책·기술 동향",
@@ -960,12 +1015,13 @@
       ],
       "board": "press",
       "sourceId": "6129",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "전력지원체계 연구개발 과제관리 지침",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=6317",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=6317&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-01-07",
       "summary": "",
       "type": "규정·지침",
@@ -977,12 +1033,13 @@
       ],
       "board": "regulatory",
       "sourceId": "6317",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 연구개발사업 심사분석 운영규정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=6316",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=6316&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-01-07",
       "summary": "",
       "type": "규정·지침",
@@ -994,12 +1051,13 @@
       ],
       "board": "regulatory",
       "sourceId": "6316",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술 연구개발 유형성과물 관리지침",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=6315",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=6315&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-01-07",
       "summary": "",
       "type": "규정·지침",
@@ -1011,12 +1069,13 @@
       ],
       "board": "regulatory",
       "sourceId": "6315",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국가소유 개발성과물 기술이전 및 기술료 산정·징수 업무규정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=6314",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=6314&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2026-01-07",
       "summary": "",
       "type": "규정·지침",
@@ -1028,12 +1087,13 @@
       ],
       "board": "regulatory",
       "sourceId": "6314",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소, 2025년 자랑스러운 연구소인 선정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=6117",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=6117&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-12-30",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1045,12 +1105,13 @@
       ],
       "board": "press",
       "sourceId": "6117",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "2025 국방핵심기술 연구개발 특허기술정보집 발간",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=6116",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=6116&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-12-30",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1062,12 +1123,13 @@
       ],
       "board": "press",
       "sourceId": "6116",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "재사용 발사체용 메탄엔진 개발 본격 착수",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=6100",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=6100&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-12-08",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1079,12 +1141,13 @@
       ],
       "board": "press",
       "sourceId": "6100",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국기연, 국방반도체 핵심기술 R&D 과제 4건 협약",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=6101",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=6101&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-12-08",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1096,12 +1159,13 @@
       ],
       "board": "press",
       "sourceId": "6101",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "방산전시회 참가 지원사업 운영규정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=5802",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=5802&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-10-21",
       "summary": "",
       "type": "규정·지침",
@@ -1113,12 +1177,13 @@
       ],
       "board": "regulatory",
       "sourceId": "5802",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 연구 및 용역업무 관리규정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=4850",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=4850&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-10-17",
       "summary": "",
       "type": "규정·지침",
@@ -1130,12 +1195,13 @@
       ],
       "board": "regulatory",
       "sourceId": "4850",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "2025 국방핵심기술 기획.성과 컨퍼런스 개최",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=6025",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=6025&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-09-17",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1147,12 +1213,13 @@
       ],
       "board": "press",
       "sourceId": "6025",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 인사관리지침",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=205",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=205&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-07-28",
       "summary": "",
       "type": "규정·지침",
@@ -1164,12 +1231,13 @@
       ],
       "board": "regulatory",
       "sourceId": "205",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "제2회 방산 소재.부품 R&D 소요 경진대회 우수과제 시상식 개최",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5963",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5963&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-07-16",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1181,12 +1249,13 @@
       ],
       "board": "press",
       "sourceId": "5963",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국기연, 2025 전자기전 통합워크숍 개최",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5962",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5962&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-07-16",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1198,12 +1267,13 @@
       ],
       "board": "press",
       "sourceId": "5962",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "기술성숙도평가(TRA) 수행지침",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=6106",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=6106&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-06-20",
       "summary": "",
       "type": "규정·지침",
@@ -1215,12 +1285,13 @@
       ],
       "board": "regulatory",
       "sourceId": "6106",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 연구위원 및 전문직위 운영지침",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=5984",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=5984&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-06-20",
       "summary": "",
       "type": "규정·지침",
@@ -1232,12 +1303,13 @@
       ],
       "board": "regulatory",
       "sourceId": "5984",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "방위산업 전문인력 양성지원 사업 세부운영규정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=4569",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=4569&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-04-22",
       "summary": "",
       "type": "규정·지침",
@@ -1249,12 +1321,13 @@
       ],
       "board": "regulatory",
       "sourceId": "4569",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "유망수출품목발굴 지원사업 운영규정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&nttId=4570",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=4570&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-04-16",
       "summary": "",
       "type": "규정·지침",
@@ -1266,12 +1339,13 @@
       ],
       "board": "regulatory",
       "sourceId": "4570",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국기연 2025 상반기 신입소원 정기 채용",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5839",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5839&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-04-15",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1283,12 +1357,13 @@
       ],
       "board": "press",
       "sourceId": "5839",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "'25~'29 무기체계 소재.부품 기획서 최초 발간",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5782",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5782&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-02-13",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1300,12 +1375,13 @@
       ],
       "board": "press",
       "sourceId": "5782",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "2024 국가별 국방과학기술 수준조사서 발간",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5763",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5763&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-01-22",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1317,12 +1393,13 @@
       ],
       "board": "press",
       "sourceId": "5763",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소, 24년 \"자랑스러운 연구소인\" 선정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5739",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5739&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-01-02",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1334,12 +1411,13 @@
       ],
       "board": "press",
       "sourceId": "5739",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "24년 \"세계 방산시장 연감\" 발간",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5738",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5738&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2025-01-02",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1351,12 +1429,13 @@
       ],
       "board": "press",
       "sourceId": "5738",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "24년 해외국방조달시장 가이드북 발간",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5729",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5729&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2024-12-23",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1368,12 +1447,13 @@
       ],
       "board": "press",
       "sourceId": "5729",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 강원국방벤처센터 개소식 개최",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5714",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5714&page=2&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2024-12-03",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1385,12 +1465,13 @@
       ],
       "board": "press",
       "sourceId": "5714",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "제1회 한.미 국방 미래통신 핵심기술 국제 공동연구 워크숍 개최",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5699",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5699&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2024-11-18",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1402,12 +1483,13 @@
       ],
       "board": "press",
       "sourceId": "5699",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "제1회 무기체계 부품국산화 소요 경진대회 개최",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5700",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5700&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2024-11-18",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1419,12 +1501,13 @@
       ],
       "board": "press",
       "sourceId": "5700",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "'24 제1회 무기체계 부품국산화 소요 경진대회 개최",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5542",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5542&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2024-04-26",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1436,12 +1519,13 @@
       ],
       "board": "press",
       "sourceId": "5542",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "'24 상반기 청년 일자리 신규 정기채용",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5543",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5543&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2024-04-26",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1453,12 +1537,13 @@
       ],
       "board": "press",
       "sourceId": "5543",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "전력지원체계분야 연구개발 과제 수요 공모 및 수요기획서 일반 공개",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5467",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5467&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2024-03-08",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1470,12 +1555,13 @@
       ],
       "board": "press",
       "sourceId": "5467",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "방산혁신기업 100 제3기 기업 모집",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5466",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5466&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2024-03-08",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1487,12 +1573,13 @@
       ],
       "board": "press",
       "sourceId": "5466",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소, '2023년 자랑스러운 연구소인' 선정",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5368",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5368&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2024-01-03",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1504,12 +1591,13 @@
       ],
       "board": "press",
       "sourceId": "5368",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "국방기술진흥연구소 부장급 인사",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5367",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5367&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2024-01-03",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1521,12 +1609,13 @@
       ],
       "board": "press",
       "sourceId": "5367",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "23년 캐나다, 루마니아, 말레이시아, 필리핀 '해외국방조달시장 가이드북' 발간",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5364",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5364&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2023-12-27",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1538,12 +1627,13 @@
       ],
       "board": "press",
       "sourceId": "5364",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "2023 국방혁신기술 기획발전 컨퍼런스 개최",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5294",
+      "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5294&page=3&searchCnd=0&searchWrd=&startd=&endd=&csrf=",
       "publishedAt": "2023-11-09",
       "summary": "",
       "type": "정책·기술 동향",
@@ -1555,12 +1645,13 @@
       ],
       "board": "press",
       "sourceId": "5294",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     },
     {
       "title": "[경북‧구미 방산혁신클러스터]  방산 헬프데스크 - 지역소재기업 경영지원 지원기업 공고 (~2027. 12. 31.)",
       "agency": "국방기술진흥연구소",
-      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=5239",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=5239&page=1&searchCnd=0&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2023-09-20",
       "summary": "",
       "type": "사업공고·공지",
@@ -1572,7 +1663,8 @@
       ],
       "board": "notice",
       "sourceId": "5239",
-      "hasAttachment": true
+      "hasAttachment": true,
+      "urlStatus": "unverified"
     }
   ]
 }

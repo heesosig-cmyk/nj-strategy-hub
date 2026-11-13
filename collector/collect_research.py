@@ -57,6 +57,18 @@ def main():
                 if safe_https(r.get('url')): old[r['url'].lower()] = r
         except (ValueError, KeyError, TypeError): pass
     merged = dict(old)
+    # Merge KRIT board records when available; keep the RSS/Atom schema unchanged.
+    krit_file = ROOT / 'docs/krit.json'
+    if krit_file.exists():
+        try:
+            krit = json.loads(krit_file.read_text(encoding='utf-8'))
+            for r in krit.get('items', []):
+                if safe_https(r.get('url')):
+                    key = r['url'].lower()
+                    previous = merged.get(key, {})
+                    merged[key] = {**previous, **r}
+        except (ValueError, TypeError, KeyError) as exc:
+            print(f'KRIT merge warning: {exc}', file=sys.stderr)
     failures=[]; successes=0
     for src in sources:
         url = src.get('url','')
@@ -75,7 +87,7 @@ def main():
         except Exception as exc:
             failures.append(f"{src.get('agency','unknown')}: {type(exc).__name__}: {exc}")
     # Do not overwrite an existing valid feed when all configured sources fail.
-    if sources and successes==0:
+    if sources and successes==0 and not (krit_file.exists() and merged != old):
         print('All sources failed; keeping existing research.json',file=sys.stderr)
         for msg in failures: print(msg,file=sys.stderr)
         return 1

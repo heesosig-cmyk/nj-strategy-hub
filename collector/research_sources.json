@@ -1,4 +1,12 @@
+
 {
-  "sources": [],
-  "note": "공식기관이 제공하는 공개 RSS/Atom 피드 URL을 검증 후 추가하세요. 임의의 기관 홈페이지 주소는 지원되지 않습니다."
+  "sources": [
+    {
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/user/rss/rss.do?bbsSeqNo=65",
+      "type": "연구·정책 자료",
+      "domains": ["AI·첨단기술", "연구개발"],
+      "keywords": ["연구개발", "인공지능", "첨단기술", "기술정책"]
+    }
+  ]
 }

@@ -5,8 +5,19 @@ from pathlib import Path
 
 KST=timezone(timedelta(hours=9))
 BASE='https://apis.data.go.kr/1230000/ad/BidPublicInfoService02/getBidPblancListInfoServc02'
-KEYWORDS=['국방','군수','정비','무기체계','드론','무인기','대드론','획득','방산','군사','전력지원','MRO','연구용역','에너지','태양광','AI','인공지능','기술사업화','민군','국방시설','시험평가']
-STRONG=['국방','군수','정비','무기체계','드론','무인기','대드론','획득','방산','군사','전력지원','MRO','민군','국방시설']
+# 전문분야 키워드와 사업유형 키워드는 별도로 관리합니다.
+DOMAIN_KEYWORDS={
+    '국방·방산':['국방','방산','방위산업','방위사업','군수','군사','무기체계','전력지원체계','국방획득','획득','MRO','군수지원','정비','부품국산화','민군','시험평가','국방시설'],
+    '드론·대드론':['드론','무인기','무인항공기','UAV','UAS','대드론','안티드론','C-UAS','Counter-UAS','드론 탐지','드론 대응','드론 방어'],
+    '에너지·전력':['에너지','전력','전력시장','전력계통','분산에너지','ESS','PPA','전력수급'],
+    '신재생·태양광':['신재생에너지','재생에너지','태양광','태양에너지','태양전지','발전사업','지붕형 태양광','태양광 발전','풍력'],
+}
+TYPE_KEYWORDS={
+    '연구·정책':['연구용역','정책연구','학술연구','전략수립','기본계획','타당성조사','실태조사','기술기획','연구개발','R&D','연구'],
+    '자문·컨설팅':['자문','컨설팅','기술자문','전문위원','전문가 모집','사업화','기술사업화','진단','평가'],
+}
+KEYWORDS=list(dict.fromkeys(w for group in (*DOMAIN_KEYWORDS.values(),*TYPE_KEYWORDS.values()) for w in group))
+STRONG=list(dict.fromkeys(w for group in DOMAIN_KEYWORDS.values() for w in group))
 OUTPUT=Path(__file__).resolve().parent.parent/'docs'/'notices.json'
 
 def request_page(key,begin,end,page):
@@ -32,6 +43,8 @@ def normalize(r):
     text=title+' '+agency
     hits=[w for w in KEYWORDS if w.casefold() in text.casefold()]
     if not hits:return None
+    domains=[name for name,words in DOMAIN_KEYWORDS.items() if any(w.casefold() in text.casefold() for w in words)]
+    types=[name for name,words in TYPE_KEYWORDS.items() if any(w.casefold() in text.casefold() for w in words)]
     relevance=min(100, (50 if any(w.casefold() in text.casefold() for w in STRONG) else 20)+min(45,15*len(hits)))
     raw_date=str(r.get('bidNtceDt') or '')
     due=str(r.get('bidClseDt') or r.get('bidClseDtTime') or '')
@@ -39,7 +52,7 @@ def normalize(r):
     if not url.startswith('https://'):url=''
     return {'source':'나라장터','noticeNumber':number,'noticeOrder':order,'title':title,'agency':agency,
             'publishedAt':raw_date,'due':due,'budget':str(r.get('presmptPrce') or r.get('asignBdgtAmt') or ''),
-            'url':url,'keywords':hits,'relevance':relevance,'sourceStatus':'원문 확인 필요',
+            'url':url,'keywords':hits,'domains':domains,'businessTypes':types,'relevance':relevance,'sourceStatus':'원문 확인 필요',
             'externalId':'g2b:'+number+':'+order}
 
 def main():

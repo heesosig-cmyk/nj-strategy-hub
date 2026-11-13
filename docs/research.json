@@ -1,9 +1,910 @@
 {
   "schema": "nj-research-feed-v1",
-  "generatedAt": "2026-11-13T17:44:26.611253+00:00",
+  "generatedAt": "2026-11-13T17:49:11.663882+00:00",
   "source": "Configured public RSS/Atom feeds",
-  "configuredSources": 0,
-  "successfulSources": 0,
+  "configuredSources": 1,
+  "successfulSources": 1,
   "warnings": [],
-  "items": []
+  "items": [
+    {
+      "title": "2026년도 과학기술정보통신부 연구개발사업 종합시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017445",
+      "publishedAt": "2026.01.02",
+      "summary": "2026년도 과기정통부 연구개발사업 종합시행계획을 붙임과 같이 게시합니다",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2024년도 비파괴검사 실태조사",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017444",
+      "publishedAt": "2025.08.12",
+      "summary": "비파괴검사기술의 진흥 및 관리에 관한 법률 제9조에 따라 비파괴검사실태조사 보고서 게시합니다.- 비파괴검사업체의&amp;nbsp; 매출액, 인력현황, 기술자격 및 장비현황, 해외진출 현황 등&amp;nbsp;&amp;nbsp;",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2023년도 비파괴검사 실태조사",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017443",
+      "publishedAt": "2025.08.12",
+      "summary": "비파괴검사기술의 진흥 및 관리에 관한 법률 제9조에 따라 비파괴검사실태조사 보고서를 게시합니다.- 비파괴검사업체의&amp;nbsp; 매출액, 인력현황, 기술자격 및 장비현황, 해외진출 현황 등&amp;nbsp;&amp;nbsp;",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2022년도 비파괴검사 실태조사",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017442",
+      "publishedAt": "2025.08.12",
+      "summary": "비파괴검사기술의 진흥 및 관리에 관한 법률 제9조에 따라 비파괴검사실태조사 보고서 게시합니다.- 비파괴검사업체의&amp;nbsp; 매출액, 인력현황, 기술자격 및 장비현황, 해외진출 현황 등&amp;nbsp;&amp;nbsp;",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "제1차 기후변화대응 기술개발 기본계획(&#039;23~&#039;32)의 2025년도 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017437",
+      "publishedAt": "2025.01.07",
+      "summary": "제1차 기후변화대응 기술개발 기본계획(&#039;23~&#039;32)의 2025년도 시행계획을 붙임과 같이 공지합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2025년도 과학기술정보통신부 연구개발사업 종합시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017436",
+      "publishedAt": "2025.01.02",
+      "summary": "2025년도 과학기술정보통신부 연구개발사업 종합시행계획을 붙임과 같이 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "국가전략기술 인재 산업 수요 분석 결과(안) - 이차전지 분야",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017432",
+      "publishedAt": "2024.12.11",
+      "summary": "국가전략기술 인재 산업 수요 분석 결과(안)",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "출연연 연구사업화 촉진을 위한 이해충돌 예방·관리 안내서",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017430",
+      "publishedAt": "2024.09.26",
+      "summary": "출연연 연구사업화 촉진을 위한 이해충돌 예방·관리 안내서",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "「제2차 과학관 육성 기본계획(&#039;09~&#039;13)」",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017421",
+      "publishedAt": "2024.05.27",
+      "summary": "「제2차 과학관 육성 기본계획(&#039;09~&#039;13)」자료를 붙임과 같이 게재합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "「과학관 육성 기본계획(&#039;03.12월)」",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017420",
+      "publishedAt": "2024.05.27",
+      "summary": "「과학관 육성 기본계획(&#039;03.12월)」자료를 붙임과 같이 게재합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2024년도 우주개발진흥시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017419",
+      "publishedAt": "2024.04.05",
+      "summary": "2024년도 우주개발진흥시행계획을 붙임으로 공지합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2024년도 과학문화확산사업 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017414",
+      "publishedAt": "2024.01.15",
+      "summary": "2024년도 과학문화확산사업 시행계획을 붙임과 같이 공지합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2024년도 과학기술정보통신부 연구개발사업 종합시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017413",
+      "publishedAt": "2024.01.05",
+      "summary": "2024년도 과학기술정보통신부 연구개발사업 종합시행계획을 붙임과 같이 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2023 우주산업실태조사",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017412",
+      "publishedAt": "2023.12.28",
+      "summary": "우주개발진흥법 제24조에 따른 2022 우주산업실태조사 보고서를 첨부와 같이 게시합니다.&amp;nbsp;",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "12대 국가전략기술소재  확보전략 및 기술로드맵",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017411",
+      "publishedAt": "2023.12.14",
+      "summary": "12대 국가전략기술소재 확보전략 및 기술로드맵입니다.붙임파일을 참조하시기 바랍니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "대한민국 양자과학기술 전략(국문판/영문판)",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017410",
+      "publishedAt": "2023.08.04",
+      "summary": "『대한민국 양자과학기술 전략(2023.6.27)』 입니다.&amp;nbsp;&amp;nbsp;국문판, 영문판(Korea&#039;s National Quantum Strategy),&amp;nbsp;인포그래피&amp;nbsp;파일을 게시하오니&amp;nbsp;첨부파일을 참고하시기 바랍니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "제4차 생명공학육성 기본계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017408",
+      "publishedAt": "2023.06.08",
+      "summary": "제4차 생명공학육성 기본계획 입니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "제4차 뇌연구촉진 기본계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017409",
+      "publishedAt": "2023.06.08",
+      "summary": "제4차 뇌연구촉진 기본계획입니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "제3차 국가초고성능컴퓨팅 육성 기본계획(`23~`27)",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017407",
+      "publishedAt": "2023.05.30",
+      "summary": "ㅇ &#039;국가초고성능컴퓨터 활용 및 육성에 관한 법률&#039; 제5조에 따라 제3차 국가초고성능컴퓨팅 육성 기본계획(`23~`27)을 수립한",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "국가과학기술표준분류체계(과학기술정보통신부고시 제2023-7호, 2023. 2. 10., 일부개정) 전문 및 해설서",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017406",
+      "publishedAt": "2023.05.23",
+      "summary": "과학기술기본법 제27조에 따른 국가과학기술표준분류체계(과학기술정보통신부고시 제2023-7호, 2023. 2. 10., 일부개정) 전문 및 해설서를 첨부와 같이 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "출연연 연구사업화 촉진을 위한 지식재산권 안내서",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017405",
+      "publishedAt": "2023.05.16",
+      "summary": "출연연 연구사업화 촉진을 위한 지식재산권 안내서",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2023년도 위성정보활용 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017403",
+      "publishedAt": "2023.05.09",
+      "summary": "2023년도 위성정보활용 시행계획",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2023년도 우주위험대비 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017404",
+      "publishedAt": "2023.05.09",
+      "summary": "2023년도 우주위험대비 시행계획",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2022년도 위성정보활용 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017401",
+      "publishedAt": "2023.05.09",
+      "summary": "2022년도 위성정보활용 시행계획",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2022년도 우주위험대비 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017402",
+      "publishedAt": "2023.05.09",
+      "summary": "2022년도 우주위험대비 시행계획",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2023년 원자력연구개발사업 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017400",
+      "publishedAt": "2023.04.25",
+      "summary": "2023년도 원자력연구개발사업 시행계획을 붙임과 같이 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2023년도 우주개발진흥 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017399",
+      "publishedAt": "2023.04.17",
+      "summary": "",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "3대 주력기술(반도체·디스플레이·차세대전지) 초격차 R&amp;D 전략",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017398",
+      "publishedAt": "2023.04.10",
+      "summary": "3대 주력기술(반도체·디스플레이·차세대전지) 초격차 R&amp;amp;D 전략 및 기술별 전략을 붙임으로 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "제4차 우주개발진흥 기본계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017397",
+      "publishedAt": "2023.02.06",
+      "summary": "우주개발분야 추진성과(3차 기본계획) 및 국내외 환경변화를 분석하여향후 5년간(&#039;23~&#039;27)의 비전, 목표 및 중점 추진계획을 수립하였습니다.참고하시기 바랍니다.&amp;nbsp;",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2023년도 과기정통부 연구개발사업 종합시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017396",
+      "publishedAt": "2023.01.02",
+      "summary": "2023년도 과기정통부 연구개발사업 종합시행계획 및 분야별 세부 추진계획을 붙임으로 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2022 우주산업실태조사",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017395",
+      "publishedAt": "2022.12.30",
+      "summary": "우주개발진흥법 제24조에 따른 2022 우주산업실태조사 보고서를 첨부와 같이 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2022년도 연구성과 관리·활용 실시계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017393",
+      "publishedAt": "2022.05.19",
+      "summary": "2022년도 연구성과 관리·활용 실시계획을 붙임과 같이 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2021년 생명공학 백서 발간",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017392",
+      "publishedAt": "2022.03.07",
+      "summary": "2021년 생명공학백서입니다.정부의 생명공학 분야의 주요 정책 및 연구개발 현황, 국내외 연구동향과 전망 등 우리나라 생명공학 전반의 정보를 체계적으로 종합 수록하였으니, 많이 활용하여 주시기 바랍니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2022년도 지역과학기술성과실용화지원사업 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017390",
+      "publishedAt": "2022.01.27",
+      "summary": "2022년도&amp;nbsp;지역과학기술성과실용화지원사업 시행계획을 첨부와 같이 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2022년 원자력연구개발사업 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017389",
+      "publishedAt": "2022.01.26",
+      "summary": "2022년 원자력연구개발사업 시행계획을 붙임과 같이 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2022년도 대학기술경영촉진사업 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017388",
+      "publishedAt": "2022.01.20",
+      "summary": "2022년도&amp;nbsp;대학 기술경영 촉진사업 시행계획을 첨부와 같이 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2022년도 지역산업연계 대학 Open-Lab 육성지원사업 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017386",
+      "publishedAt": "2022.01.13",
+      "summary": "2022년도&amp;nbsp;지역산업연계 대학 Open-Lab&amp;nbsp;육성지원사업 시행계획을 첨부와 같이 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2022년도 공공연구성과 가치창출 기술키움 사업 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017385",
+      "publishedAt": "2022.01.13",
+      "summary": "2022년도 공공연구성과 가치창출 기술키움 사업 시행계획을 첨부와 같이&amp;nbsp;게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2022년 공공연구성과 활용 촉진R&amp;D사업 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017384",
+      "publishedAt": "2022.01.13",
+      "summary": "2022년 공공연구성과 활용 촉진R&amp;amp;D사업 시행계획을 첨부와 같이&amp;nbsp;게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2022년도 과학치안 공공연구성과 실용화 촉진 시범사업 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017383",
+      "publishedAt": "2022.01.10",
+      "summary": "2022년도 과학치안 공공연구성과 실용화 촉진 시범사업 시행계획을 첨부와 같이&amp;nbsp;게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2022년도 과기정통부 연구개발사업 종합시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017381",
+      "publishedAt": "2022.01.03",
+      "summary": "2022년도 과학기술정보통신부 연구개발사업 종합시행계획을 붙임과 같이 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2019 원자력산업실태조사",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017379",
+      "publishedAt": "2021.05.03",
+      "summary": "원자력진흥법 제16조에 따라 원자력산업실태조사를 붙임과 같이 게시합니다.- 원자력관련 매출·투자·인력 현황, 원자력 관련대학 전공인력 현황 등",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2021년도 위성정보 활용 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017377",
+      "publishedAt": "2021.02.10",
+      "summary": "2021년도 위성정보 활용 시행계획을 홈페이지에 등록합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2021년도 우주위험대비 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017378",
+      "publishedAt": "2021.02.10",
+      "summary": "2021년도 우주위험대비 시행계획을 홈페이지에 등록합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2021년도 우주개발 진흥 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017376",
+      "publishedAt": "2021.02.10",
+      "summary": "2021년도 우주개발 진흥 시행계획을 홈페이지에 등록합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "국가연구개발 과제평가 표준지침(2021.2.개정)",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017375",
+      "publishedAt": "2021.02.09",
+      "summary": "2021년 2월 2일 국가과학기술자문회의 심의회의 운영위원회의 심의·의결을 받아 개정한&#039;국가연구개발 과제평가 표준지침&#039;을 게재합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2020 우주산업실태조사",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017374",
+      "publishedAt": "2021.01.18",
+      "summary": "우주개발진흥법 제24조에 따라 2020년 우주산업실태조사를 붙임과 같이 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2021년 원자력연구개발사업 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017373",
+      "publishedAt": "2021.01.11",
+      "summary": "2021년 원자력연구개발사업 시행계획을붙임과 같이 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "2020 우주개발백서",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017372",
+      "publishedAt": "2021.01.06",
+      "summary": "우리나라 우주개발에 대한 역사와 성과, 관련 기술과 제도, 국내외 우주 관련 자료 등 다양하고 유용한 정보를 담고 있는 우주개발백서입니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    },
+    {
+      "title": "나노 및 소재 기술개발사업 2021년도 시행계획",
+      "agency": "과학기술정보통신부",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=65&nttSeqNo=3017371",
+      "publishedAt": "2021.01.05",
+      "summary": "나노 및 소재 기술개발사업 2021년도 시행계획(안)을 게시합니다.",
+      "type": "연구·정책 자료",
+      "domains": [
+        "AI·첨단기술",
+        "연구개발"
+      ],
+      "keywords": [
+        "연구개발",
+        "인공지능",
+        "첨단기술",
+        "기술정책"
+      ]
+    }
+  ]
 }

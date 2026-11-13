@@ -31,7 +31,7 @@ jobs:
       - name: Collect notices
         env:
           DATA_GO_KR_SERVICE_KEY: ${{ secrets.DATA_GO_KR_SERVICE_KEY }}
-        run: python collector/main.py
+        run: python collector/collect.py
 
       - name: Commit updated data
         run: |

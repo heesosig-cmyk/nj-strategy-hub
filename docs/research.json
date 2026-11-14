@@ -1,6 +1,6 @@
 {
   "schema": "nj-research-feed-v1",
-  "generatedAt": "2026-11-14T12:42:27.553224+00:00",
+  "generatedAt": "2026-11-14T12:52:19.455580+00:00",
   "source": "Configured public RSS/Atom feeds",
   "configuredSources": 4,
   "successfulSources": 4,
@@ -4887,6 +4887,25 @@
       "urlStatus": "unverified"
     },
     {
+      "title": "유망수출품목발굴 지원사업 운영규정",
+      "agency": "국방기술진흥연구소",
+      "url": "https://www.krit.re.kr/krit/bbs/regulatory_list.do",
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/regulatory_view.do?bbsId=regulatory&article_category=&nttId=4570&page=3&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=04010000",
+      "publishedAt": "2025-04-16",
+      "summary": "",
+      "type": "규정·지침",
+      "domains": [
+        "국방·방산"
+      ],
+      "keywords": [
+        "규정자료"
+      ],
+      "board": "regulatory",
+      "sourceId": "4570",
+      "hasAttachment": true,
+      "urlStatus": "unverified"
+    },
+    {
       "title": "국기연 2025 상반기 신입소원 정기 채용",
       "agency": "국방기술진흥연구소",
       "url": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&nttId=5839",
@@ -6220,6 +6239,25 @@
       "urlStatus": "unverified"
     },
     {
+      "title": "2023 국방혁신기술 기획발전 컨퍼런스 개최",
+      "agency": "국방기술진흥연구소",
+      "url": "https://www.krit.re.kr/krit/bbs/press_list.do",
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/press_view.do?bbsId=press&article_category=&nttId=5294&page=3&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=01080100",
+      "publishedAt": "2023-11-09",
+      "summary": "",
+      "type": "정책·기술 동향",
+      "domains": [
+        "국방·방산"
+      ],
+      "keywords": [
+        "보도자료"
+      ],
+      "board": "press",
+      "sourceId": "5294",
+      "hasAttachment": true,
+      "urlStatus": "unverified"
+    },
+    {
       "title": "[경북‧구미 방산혁신클러스터]  방산 헬프데스크 - 지역소재기업 경영지원 지원기업 공고 (~2027. 12. 31.)",
       "agency": "국방기술진흥연구소",
       "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&nttId=5239",
@@ -6258,6 +6296,25 @@
       "title": "[경북‧구미 방산혁신클러스터]  방산 헬프데스크 - 지역소재기업 경영지원 지원기업 공고 (~2027. 12. 31.)",
       "agency": "국방기술진흥연구소",
       "url": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=5239&page=1&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
+      "publishedAt": "2023-09-20",
+      "summary": "",
+      "type": "사업공고·공지",
+      "domains": [
+        "국방·방산"
+      ],
+      "keywords": [
+        "공지사항"
+      ],
+      "board": "notice",
+      "sourceId": "5239",
+      "hasAttachment": true,
+      "urlStatus": "unverified"
+    },
+    {
+      "title": "[경북‧구미 방산혁신클러스터]  방산 헬프데스크 - 지역소재기업 경영지원 지원기업 공고 (~2027. 12. 31.)",
+      "agency": "국방기술진흥연구소",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_list.do",
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=5239&page=1&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2023-09-20",
       "summary": "",
       "type": "사업공고·공지",

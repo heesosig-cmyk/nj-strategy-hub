@@ -123,7 +123,10 @@ def parse_list(html, board):
         records.append({
             'title': title[:500],
             'agency': '국방기술진흥연구소',
-            'url': detail_url(board, ntt, args, fields),
+            
+'url': f'{BASE}{board}_list.do',
+'originalDetailUrl': detail_url(board, ntt, args, fields),
+
             'publishedAt': date.get_text(' ', strip=True) if date else '',
             'summary': '',
             'type': BOARDS[board][1],

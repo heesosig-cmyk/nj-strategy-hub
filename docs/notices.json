@@ -1,9 +1,813 @@
 {
   "schema": "nj-notice-feed-v1",
-  "generatedAt": "2026-11-15T10:17:21.842055+09:00",
+  "generatedAt": "2026-11-15T16:14:49.974470+09:00",
   "source": "조달청 나라장터 용역 API",
   "scope": "최근 2일 수집 + 이전 후보 최대 2000건",
   "items": [
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830106",
+      "noticeOrder": "000",
+      "title": "조촌 자연재해위험개선지구 정비사업 바지선 및 예인선 임차용역",
+      "agency": "충청북도 음성군",
+      "publishedAt": "2026-11-13 16:32:03",
+      "due": "2026-11-19 10:00:00",
+      "budget": "1093000000",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830106&bidPbancOrd=000",
+      "keywords": [
+        "정비"
+      ],
+      "domains": [
+        "국방·방산"
+      ],
+      "businessTypes": [],
+      "relevance": 65,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830106:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830189",
+      "noticeOrder": "000",
+      "title": "대정지구 자연재해위험개선지구 정비사업 건설폐기물 처리용역(총괄 및 1차분)",
+      "agency": "전남광주통합특별시 장성군",
+      "publishedAt": "2026-11-13 16:37:56",
+      "due": "2026-11-19 10:00:00",
+      "budget": "514090909",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830189&bidPbancOrd=000",
+      "keywords": [
+        "정비"
+      ],
+      "domains": [
+        "국방·방산"
+      ],
+      "businessTypes": [],
+      "relevance": 65,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830189:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830214",
+      "noticeOrder": "000",
+      "title": "초록우산 캄보디아 초등교사 기초문해 역량강화 연수프로그램 개발 연구용역",
+      "agency": "사회복지법인어린이재단",
+      "publishedAt": "2026-11-13 16:54:04",
+      "due": "2026-11-24 11:00:00",
+      "budget": "68181818",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830214&bidPbancOrd=000",
+      "keywords": [
+        "연구용역",
+        "연구"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "연구·정책"
+      ],
+      "relevance": 50,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830214:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830257",
+      "noticeOrder": "000",
+      "title": "연암공과대학교「앵커사업 평생교육 성과분석 및 성인학습자 X+AI 교육체계 구축 연구」 용역",
+      "agency": "연암공과대학교산학협력단",
+      "publishedAt": "2026-11-13 16:58:06",
+      "due": "2026-11-24 10:00:00",
+      "budget": "50000000",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830257&bidPbancOrd=000",
+      "keywords": [
+        "연구"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "연구·정책"
+      ],
+      "relevance": 35,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830257:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830366",
+      "noticeOrder": "000",
+      "title": "2026년 드론 실증도시 인프라 구축 용역 입찰 공고(협상에의한계약)(재공고)",
+      "agency": "충청남도 당진시",
+      "publishedAt": "2026-11-13 17:24:42",
+      "due": "",
+      "budget": "272727273",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830366&bidPbancOrd=000",
+      "keywords": [
+        "드론"
+      ],
+      "domains": [
+        "드론·대드론"
+      ],
+      "businessTypes": [],
+      "relevance": 65,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830366:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830385",
+      "noticeOrder": "000",
+      "title": "충주미술사발간및조사연구용역(협상에 의한 계약)",
+      "agency": "충청북도 충주시",
+      "publishedAt": "2026-11-13 17:26:59",
+      "due": "2026-11-24 12:00:00",
+      "budget": "72727273",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830385&bidPbancOrd=000",
+      "keywords": [
+        "연구용역",
+        "연구"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "연구·정책"
+      ],
+      "relevance": 50,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830385:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01807949",
+      "noticeOrder": "002",
+      "title": "국내전시회 개최지원사업 성과지표 개발 연구용역",
+      "agency": "한국전시산업진흥회",
+      "publishedAt": "2026-11-13 17:28:53",
+      "due": "2026-11-23 11:00:00",
+      "budget": "36363636",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01807949&bidPbancOrd=002",
+      "keywords": [
+        "연구용역",
+        "연구"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "연구·정책"
+      ],
+      "relevance": 50,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01807949:002",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830183",
+      "noticeOrder": "000",
+      "title": "구산동 458-1번지 외 5개소 일원 도로정비공사 폐기물처리용역",
+      "agency": "경기도 고양시",
+      "publishedAt": "2026-11-13 17:29:26",
+      "due": "2026-11-19 10:00:00",
+      "budget": "43136364",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830183&bidPbancOrd=000",
+      "keywords": [
+        "정비"
+      ],
+      "domains": [
+        "국방·방산"
+      ],
+      "businessTypes": [],
+      "relevance": 65,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830183:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830431",
+      "noticeOrder": "000",
+      "title": "2027년 사이버 보안관제 및 정보보호시스템 유지관리",
+      "agency": "국방부 전쟁기념사업회",
+      "publishedAt": "2026-11-13 17:51:28",
+      "due": "2026-12-01 10:00:00",
+      "budget": "136363636",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830431&bidPbancOrd=000",
+      "keywords": [
+        "국방"
+      ],
+      "domains": [
+        "국방·방산"
+      ],
+      "businessTypes": [],
+      "relevance": 65,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830431:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830436",
+      "noticeOrder": "000",
+      "title": "대야초등학교 주변 보도정비공사 폐기물처리용역",
+      "agency": "전북특별자치도 군산시",
+      "publishedAt": "2026-11-13 18:00:07",
+      "due": "2026-11-19 12:00:00",
+      "budget": "26920000",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830436&bidPbancOrd=000",
+      "keywords": [
+        "정비"
+      ],
+      "domains": [
+        "국방·방산"
+      ],
+      "businessTypes": [],
+      "relevance": 65,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830436:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830563",
+      "noticeOrder": "000",
+      "title": "슈퍼컴퓨팅지원동 구형 냉각탑 수리‧분해 정비 용역",
+      "agency": "한국과학기술정보연구원",
+      "publishedAt": "2026-11-13 18:53:06",
+      "due": "2026-11-23 10:00:00",
+      "budget": "123000000",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830563&bidPbancOrd=000",
+      "keywords": [
+        "정비",
+        "연구"
+      ],
+      "domains": [
+        "국방·방산"
+      ],
+      "businessTypes": [
+        "연구·정책"
+      ],
+      "relevance": 80,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830563:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01829806",
+      "noticeOrder": "000",
+      "title": "나불3지구 태양광발전사업 세부설계 및 인허가용역",
+      "agency": "한국농어촌공사 영산강사업단",
+      "publishedAt": "2026-11-13 17:20:53",
+      "due": "2026-11-17 10:00:00",
+      "budget": "45000000",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01829806&bidPbancOrd=000",
+      "keywords": [
+        "태양광",
+        "발전사업"
+      ],
+      "domains": [
+        "신재생·태양광"
+      ],
+      "businessTypes": [],
+      "relevance": 80,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01829806:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01826595",
+      "noticeOrder": "000",
+      "title": "(긴급)[PQ 후 가격입찰]암남5 자연재해위험개선지구 정비사업 감독권한대행 등 건설사업관리용역",
+      "agency": "부산광역시 서구",
+      "publishedAt": "2026-11-13 17:25:59",
+      "due": "2026-11-20 10:00:00",
+      "budget": "2863636364",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01826595&bidPbancOrd=000",
+      "keywords": [
+        "정비"
+      ],
+      "domains": [
+        "국방·방산"
+      ],
+      "businessTypes": [],
+      "relevance": 65,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01826595:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830355",
+      "noticeOrder": "000",
+      "title": "포항시 하수도정비 중점관리지역 정비사업(2단계) 지하구조물 전산화 용역(GIS DB 구축)",
+      "agency": "경상북도 포항시",
+      "publishedAt": "2026-11-13 17:31:26",
+      "due": "2026-11-19 10:00:00",
+      "budget": "59232727",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830355&bidPbancOrd=000",
+      "keywords": [
+        "정비"
+      ],
+      "domains": [
+        "국방·방산"
+      ],
+      "businessTypes": [],
+      "relevance": 65,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830355:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01829661",
+      "noticeOrder": "001",
+      "title": "(지명입찰)아래두리실천 자연재해위험개선지구 정비사업 기본 및 실시설계 용역(PQ 후 가격입찰)",
+      "agency": "충청북도 음성군",
+      "publishedAt": "2026-11-13 17:36:26",
+      "due": "2026-11-19 10:00:00",
+      "budget": "1085454545",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01829661&bidPbancOrd=001",
+      "keywords": [
+        "정비"
+      ],
+      "domains": [
+        "국방·방산"
+      ],
+      "businessTypes": [],
+      "relevance": 65,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01829661:001",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01828348",
+      "noticeOrder": "000",
+      "title": "격포항~궁항지구 연안정비사업 일반해양이용협의 용역",
+      "agency": "전북특별자치도 부안군",
+      "publishedAt": "2026-11-13 17:48:04",
+      "due": "2026-11-19 11:00:00",
+      "budget": "178545455",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01828348&bidPbancOrd=000",
+      "keywords": [
+        "정비"
+      ],
+      "domains": [
+        "국방·방산"
+      ],
+      "businessTypes": [],
+      "relevance": 65,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01828348:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830542",
+      "noticeOrder": "000",
+      "title": "「내곡 농어촌마을 하수도 정비사업(토목,건축,기계)」 건설공사 안전점검 수행기관 지정 공고",
+      "agency": "경상남도 합천군",
+      "publishedAt": "2026-11-13 18:36:07",
+      "due": "2026-11-20 10:00:00",
+      "budget": "10161983",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830542&bidPbancOrd=000",
+      "keywords": [
+        "정비"
+      ],
+      "domains": [
+        "국방·방산"
+      ],
+      "businessTypes": [],
+      "relevance": 65,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830542:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830562",
+      "noticeOrder": "000",
+      "title": "합천군 소하천정비종합계획 전략환경영향평가 및 기후변화영향평가 용역",
+      "agency": "경상남도 합천군",
+      "publishedAt": "2026-11-13 19:06:30",
+      "due": "2026-11-19 10:00:00",
+      "budget": "1615454545",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830562&bidPbancOrd=000",
+      "keywords": [
+        "정비",
+        "평가"
+      ],
+      "domains": [
+        "국방·방산"
+      ],
+      "businessTypes": [
+        "자문·컨설팅"
+      ],
+      "relevance": 80,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830562:000",
+      "changeStatus": "변경 확인 필요",
+      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830291",
+      "noticeOrder": "000",
+      "title": "가상원자로 웹 기반 열수력 해석 워크벤치 개발",
+      "agency": "한국과학기술정보연구원",
+      "publishedAt": "2026-11-13 17:04:17",
+      "due": "2026-11-23 15:00:00",
+      "budget": "180909091",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830291&bidPbancOrd=000",
+      "keywords": [
+        "연구"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "연구·정책"
+      ],
+      "relevance": 35,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830291:000",
+      "changeStatus": "신규",
+      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830297",
+      "noticeOrder": "000",
+      "title": "[혁신] 2026년 전문대학 혁신지원사업 자체평가 및 성과분석을 통한 혁신 방안 연구 용역",
+      "agency": "명지전문대학",
+      "publishedAt": "2026-11-13 17:04:30",
+      "due": "",
+      "budget": "59090909",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830297&bidPbancOrd=000",
+      "keywords": [
+        "연구",
+        "평가"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "연구·정책",
+        "자문·컨설팅"
+      ],
+      "relevance": 50,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830297:000",
+      "changeStatus": "신규",
+      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830472",
+      "noticeOrder": "000",
+      "title": "AEM-URFC 소재/스택 단위 정적/동적 전기화학적 성능평가기준(안) 도출 용역",
+      "agency": "전남대학교 산학협력단",
+      "publishedAt": "2026-11-13 18:04:45",
+      "due": "2026-11-24 10:00:00",
+      "budget": "90000000",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830472&bidPbancOrd=000",
+      "keywords": [
+        "평가"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "자문·컨설팅"
+      ],
+      "relevance": 35,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830472:000",
+      "changeStatus": "신규",
+      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830516",
+      "noticeOrder": "000",
+      "title": "2027년도 전자문서 및 행정지원시스템 위탁운영사업",
+      "agency": "중앙선거관리위원회",
+      "publishedAt": "2026-11-13 18:07:29",
+      "due": "2026-11-24 10:00:00",
+      "budget": "90909091",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830516&bidPbancOrd=000",
+      "keywords": [
+        "자문"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "자문·컨설팅"
+      ],
+      "relevance": 35,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830516:000",
+      "changeStatus": "신규",
+      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01829020",
+      "noticeOrder": "001",
+      "title": "하동군 투자유치 기본계획 수립용역",
+      "agency": "경상남도 하동군",
+      "publishedAt": "2026-11-13 18:18:05",
+      "due": "2026-11-26 17:00:00",
+      "budget": "443513445",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01829020&bidPbancOrd=001",
+      "keywords": [
+        "기본계획"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "연구·정책"
+      ],
+      "relevance": 35,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01829020:001",
+      "changeStatus": "신규",
+      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830550",
+      "noticeOrder": "000",
+      "title": "2027년 서울시 어울림플라자 종합관리용역(시설·미화)",
+      "agency": "(주)한국능률협회컨설팅",
+      "publishedAt": "2026-11-13 18:49:14",
+      "due": "2026-12-04 17:00:00",
+      "budget": "266363636",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830550&bidPbancOrd=000",
+      "keywords": [
+        "컨설팅"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "자문·컨설팅"
+      ],
+      "relevance": 35,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830550:000",
+      "changeStatus": "신규",
+      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01810894",
+      "noticeOrder": "001",
+      "title": "2027년 서울시 어울림플라자 종합관리용역(시설·미화)",
+      "agency": "(주)한국능률협회컨설팅",
+      "publishedAt": "2026-11-13 18:50:15",
+      "due": "2026-11-25 17:00:00",
+      "budget": "266363636",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01810894&bidPbancOrd=001",
+      "keywords": [
+        "컨설팅"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "자문·컨설팅"
+      ],
+      "relevance": 35,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01810894:001",
+      "changeStatus": "신규",
+      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830606",
+      "noticeOrder": "000",
+      "title": "스마트워킹시스템 고도화(모바일화 구현, 이해충돌방지 상세설계) 및 26년 유지보수 용역",
+      "agency": "한국철도기술연구원",
+      "publishedAt": "2026-11-13 20:20:07",
+      "due": "2026-11-24 11:00:00",
+      "budget": "90818182",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830606&bidPbancOrd=000",
+      "keywords": [
+        "연구"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "연구·정책"
+      ],
+      "relevance": 35,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830606:000",
+      "changeStatus": "신규",
+      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830071",
+      "noticeOrder": "000",
+      "title": "경북도립미술관 건립 건설공사 타당성조사 및 건축기획 용역",
+      "agency": "경상북도",
+      "publishedAt": "2026-11-13 16:15:42",
+      "due": "2026-12-04 17:00:00",
+      "budget": "108804550",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830071&bidPbancOrd=000",
+      "keywords": [
+        "타당성조사"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "연구·정책"
+      ],
+      "relevance": 35,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830071:000",
+      "changeStatus": "신규",
+      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01829663",
+      "noticeOrder": "000",
+      "title": "2026년 법정도로 3종 교량 정밀안전진단 용역",
+      "agency": "경기도 가평군",
+      "publishedAt": "2026-11-13 16:22:51",
+      "due": "2026-11-19 10:00:00",
+      "budget": "248683636",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01829663&bidPbancOrd=000",
+      "keywords": [
+        "진단"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "자문·컨설팅"
+      ],
+      "relevance": 35,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01829663:000",
+      "changeStatus": "신규",
+      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830167",
+      "noticeOrder": "000",
+      "title": "[재공고] 한국교통연구원 월간교통 발간",
+      "agency": "한국교통연구원",
+      "publishedAt": "2026-11-13 16:31:44",
+      "due": "",
+      "budget": "177272727",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830167&bidPbancOrd=000",
+      "keywords": [
+        "연구"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "연구·정책"
+      ],
+      "relevance": 35,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830167:000",
+      "changeStatus": "신규",
+      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830091",
+      "noticeOrder": "000",
+      "title": "[사업수행능력평가서 제출] 반여4 자연재해위험개선지구 감독권한대행등 건설사업관리용역(긴급)",
+      "agency": "부산광역시 해운대구",
+      "publishedAt": "2026-11-13 17:07:05",
+      "due": "",
+      "budget": "1756700000",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830091&bidPbancOrd=000",
+      "keywords": [
+        "평가"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "자문·컨설팅"
+      ],
+      "relevance": 35,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830091:000",
+      "changeStatus": "신규",
+      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830285",
+      "noticeOrder": "000",
+      "title": "(긴급)후평일반산업단지 재생사업 사후환경영향조사 공사시 용역 집행계획 및 사업수행능력평가서 제출안내",
+      "agency": "강원특별자치도 춘천시",
+      "publishedAt": "2026-11-13 17:35:51",
+      "due": "",
+      "budget": "203592727",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830285&bidPbancOrd=000",
+      "keywords": [
+        "평가"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "자문·컨설팅"
+      ],
+      "relevance": 35,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830285:000",
+      "changeStatus": "신규",
+      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01830368",
+      "noticeOrder": "000",
+      "title": "안동시 남부권 소규모공공하수관로 기술진단용역",
+      "agency": "경상북도 안동시",
+      "publishedAt": "2026-11-13 17:37:47",
+      "due": "2026-11-24 10:00:00",
+      "budget": "197272728",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830368&bidPbancOrd=000",
+      "keywords": [
+        "진단"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "자문·컨설팅"
+      ],
+      "relevance": 35,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01830368:000",
+      "changeStatus": "신규",
+      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
+    {
+      "source": "나라장터",
+      "noticeNumber": "R26BK01824490",
+      "noticeOrder": "002",
+      "title": "인천광역시 스마트 하수도 시스템  구축 감리 용역 집행계획 및 사업수행능력 평가서 제출안내 공고",
+      "agency": "인천광역시 환경국 하수과",
+      "publishedAt": "2026-11-13 18:18:02",
+      "due": "",
+      "budget": "987272727",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01824490&bidPbancOrd=002",
+      "keywords": [
+        "평가"
+      ],
+      "domains": [],
+      "businessTypes": [
+        "자문·컨설팅"
+      ],
+      "relevance": 35,
+      "sourceStatus": "원문 확인 필요",
+      "externalId": "g2b:R26BK01824490:002",
+      "changeStatus": "신규",
+      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
+      "lastSeen": "2026-11-15T16:14:49.974470+09:00"
+    },
     {
       "source": "나라장터",
       "noticeNumber": "R26BK01812897",
@@ -613,276 +1417,6 @@
     },
     {
       "source": "나라장터",
-      "noticeNumber": "R26BK01830106",
-      "noticeOrder": "000",
-      "title": "조촌 자연재해위험개선지구 정비사업 바지선 및 예인선 임차용역",
-      "agency": "충청북도 음성군",
-      "publishedAt": "2026-11-13 16:32:03",
-      "due": "2026-11-19 10:00:00",
-      "budget": "1093000000",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830106&bidPbancOrd=000",
-      "keywords": [
-        "정비"
-      ],
-      "domains": [
-        "국방·방산"
-      ],
-      "businessTypes": [],
-      "relevance": 65,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830106:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830189",
-      "noticeOrder": "000",
-      "title": "대정지구 자연재해위험개선지구 정비사업 건설폐기물 처리용역(총괄 및 1차분)",
-      "agency": "전남광주통합특별시 장성군",
-      "publishedAt": "2026-11-13 16:37:56",
-      "due": "2026-11-19 10:00:00",
-      "budget": "514090909",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830189&bidPbancOrd=000",
-      "keywords": [
-        "정비"
-      ],
-      "domains": [
-        "국방·방산"
-      ],
-      "businessTypes": [],
-      "relevance": 65,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830189:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830214",
-      "noticeOrder": "000",
-      "title": "초록우산 캄보디아 초등교사 기초문해 역량강화 연수프로그램 개발 연구용역",
-      "agency": "사회복지법인어린이재단",
-      "publishedAt": "2026-11-13 16:54:04",
-      "due": "2026-11-24 11:00:00",
-      "budget": "68181818",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830214&bidPbancOrd=000",
-      "keywords": [
-        "연구용역",
-        "연구"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "연구·정책"
-      ],
-      "relevance": 50,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830214:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830257",
-      "noticeOrder": "000",
-      "title": "연암공과대학교「앵커사업 평생교육 성과분석 및 성인학습자 X+AI 교육체계 구축 연구」 용역",
-      "agency": "연암공과대학교산학협력단",
-      "publishedAt": "2026-11-13 16:58:06",
-      "due": "2026-11-24 10:00:00",
-      "budget": "50000000",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830257&bidPbancOrd=000",
-      "keywords": [
-        "연구"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "연구·정책"
-      ],
-      "relevance": 35,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830257:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830366",
-      "noticeOrder": "000",
-      "title": "2026년 드론 실증도시 인프라 구축 용역 입찰 공고(협상에의한계약)(재공고)",
-      "agency": "충청남도 당진시",
-      "publishedAt": "2026-11-13 17:24:42",
-      "due": "",
-      "budget": "272727273",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830366&bidPbancOrd=000",
-      "keywords": [
-        "드론"
-      ],
-      "domains": [
-        "드론·대드론"
-      ],
-      "businessTypes": [],
-      "relevance": 65,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830366:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830385",
-      "noticeOrder": "000",
-      "title": "충주미술사발간및조사연구용역(협상에 의한 계약)",
-      "agency": "충청북도 충주시",
-      "publishedAt": "2026-11-13 17:26:59",
-      "due": "2026-11-24 12:00:00",
-      "budget": "72727273",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830385&bidPbancOrd=000",
-      "keywords": [
-        "연구용역",
-        "연구"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "연구·정책"
-      ],
-      "relevance": 50,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830385:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01807949",
-      "noticeOrder": "002",
-      "title": "국내전시회 개최지원사업 성과지표 개발 연구용역",
-      "agency": "한국전시산업진흥회",
-      "publishedAt": "2026-11-13 17:28:53",
-      "due": "2026-11-23 11:00:00",
-      "budget": "36363636",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01807949&bidPbancOrd=002",
-      "keywords": [
-        "연구용역",
-        "연구"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "연구·정책"
-      ],
-      "relevance": 50,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01807949:002",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830183",
-      "noticeOrder": "000",
-      "title": "구산동 458-1번지 외 5개소 일원 도로정비공사 폐기물처리용역",
-      "agency": "경기도 고양시",
-      "publishedAt": "2026-11-13 17:29:26",
-      "due": "2026-11-19 10:00:00",
-      "budget": "43136364",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830183&bidPbancOrd=000",
-      "keywords": [
-        "정비"
-      ],
-      "domains": [
-        "국방·방산"
-      ],
-      "businessTypes": [],
-      "relevance": 65,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830183:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830431",
-      "noticeOrder": "000",
-      "title": "2027년 사이버 보안관제 및 정보보호시스템 유지관리",
-      "agency": "국방부 전쟁기념사업회",
-      "publishedAt": "2026-11-13 17:51:28",
-      "due": "2026-12-01 10:00:00",
-      "budget": "136363636",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830431&bidPbancOrd=000",
-      "keywords": [
-        "국방"
-      ],
-      "domains": [
-        "국방·방산"
-      ],
-      "businessTypes": [],
-      "relevance": 65,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830431:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830436",
-      "noticeOrder": "000",
-      "title": "대야초등학교 주변 보도정비공사 폐기물처리용역",
-      "agency": "전북특별자치도 군산시",
-      "publishedAt": "2026-11-13 18:00:07",
-      "due": "2026-11-19 12:00:00",
-      "budget": "26920000",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830436&bidPbancOrd=000",
-      "keywords": [
-        "정비"
-      ],
-      "domains": [
-        "국방·방산"
-      ],
-      "businessTypes": [],
-      "relevance": 65,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830436:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830563",
-      "noticeOrder": "000",
-      "title": "슈퍼컴퓨팅지원동 구형 냉각탑 수리‧분해 정비 용역",
-      "agency": "한국과학기술정보연구원",
-      "publishedAt": "2026-11-13 18:53:06",
-      "due": "2026-11-23 10:00:00",
-      "budget": "123000000",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830563&bidPbancOrd=000",
-      "keywords": [
-        "정비",
-        "연구"
-      ],
-      "domains": [
-        "국방·방산"
-      ],
-      "businessTypes": [
-        "연구·정책"
-      ],
-      "relevance": 80,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830563:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
       "noticeNumber": "R26BK01828666",
       "noticeOrder": "000",
       "title": "담양읍 삼만지구 농촌공간정비사업 부지조성 실시설계용역",
@@ -1263,178 +1797,6 @@
       "relevance": 65,
       "sourceStatus": "원문 확인 필요",
       "externalId": "g2b:R26BK01829661:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01829806",
-      "noticeOrder": "000",
-      "title": "나불3지구 태양광발전사업 세부설계 및 인허가용역",
-      "agency": "한국농어촌공사 영산강사업단",
-      "publishedAt": "2026-11-13 17:20:53",
-      "due": "2026-11-17 10:00:00",
-      "budget": "45000000",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01829806&bidPbancOrd=000",
-      "keywords": [
-        "태양광",
-        "발전사업"
-      ],
-      "domains": [
-        "신재생·태양광"
-      ],
-      "businessTypes": [],
-      "relevance": 80,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01829806:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01826595",
-      "noticeOrder": "000",
-      "title": "(긴급)[PQ 후 가격입찰]암남5 자연재해위험개선지구 정비사업 감독권한대행 등 건설사업관리용역",
-      "agency": "부산광역시 서구",
-      "publishedAt": "2026-11-13 17:25:59",
-      "due": "2026-11-20 10:00:00",
-      "budget": "2863636364",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01826595&bidPbancOrd=000",
-      "keywords": [
-        "정비"
-      ],
-      "domains": [
-        "국방·방산"
-      ],
-      "businessTypes": [],
-      "relevance": 65,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01826595:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830355",
-      "noticeOrder": "000",
-      "title": "포항시 하수도정비 중점관리지역 정비사업(2단계) 지하구조물 전산화 용역(GIS DB 구축)",
-      "agency": "경상북도 포항시",
-      "publishedAt": "2026-11-13 17:31:26",
-      "due": "2026-11-19 10:00:00",
-      "budget": "59232727",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830355&bidPbancOrd=000",
-      "keywords": [
-        "정비"
-      ],
-      "domains": [
-        "국방·방산"
-      ],
-      "businessTypes": [],
-      "relevance": 65,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830355:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01829661",
-      "noticeOrder": "001",
-      "title": "(지명입찰)아래두리실천 자연재해위험개선지구 정비사업 기본 및 실시설계 용역(PQ 후 가격입찰)",
-      "agency": "충청북도 음성군",
-      "publishedAt": "2026-11-13 17:36:26",
-      "due": "2026-11-19 10:00:00",
-      "budget": "1085454545",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01829661&bidPbancOrd=001",
-      "keywords": [
-        "정비"
-      ],
-      "domains": [
-        "국방·방산"
-      ],
-      "businessTypes": [],
-      "relevance": 65,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01829661:001",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01828348",
-      "noticeOrder": "000",
-      "title": "격포항~궁항지구 연안정비사업 일반해양이용협의 용역",
-      "agency": "전북특별자치도 부안군",
-      "publishedAt": "2026-11-13 17:48:04",
-      "due": "2026-11-19 11:00:00",
-      "budget": "178545455",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01828348&bidPbancOrd=000",
-      "keywords": [
-        "정비"
-      ],
-      "domains": [
-        "국방·방산"
-      ],
-      "businessTypes": [],
-      "relevance": 65,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01828348:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830542",
-      "noticeOrder": "000",
-      "title": "「내곡 농어촌마을 하수도 정비사업(토목,건축,기계)」 건설공사 안전점검 수행기관 지정 공고",
-      "agency": "경상남도 합천군",
-      "publishedAt": "2026-11-13 18:36:07",
-      "due": "2026-11-20 10:00:00",
-      "budget": "10161983",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830542&bidPbancOrd=000",
-      "keywords": [
-        "정비"
-      ],
-      "domains": [
-        "국방·방산"
-      ],
-      "businessTypes": [],
-      "relevance": 65,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830542:000",
-      "changeStatus": "변경 확인 필요",
-      "firstSeen": "2026-11-13T23:22:38.281374+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830562",
-      "noticeOrder": "000",
-      "title": "합천군 소하천정비종합계획 전략환경영향평가 및 기후변화영향평가 용역",
-      "agency": "경상남도 합천군",
-      "publishedAt": "2026-11-13 19:06:30",
-      "due": "2026-11-19 10:00:00",
-      "budget": "1615454545",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830562&bidPbancOrd=000",
-      "keywords": [
-        "정비",
-        "평가"
-      ],
-      "domains": [
-        "국방·방산"
-      ],
-      "businessTypes": [
-        "자문·컨설팅"
-      ],
-      "relevance": 80,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830562:000",
       "changeStatus": "변경 확인 필요",
       "firstSeen": "2026-11-13T23:22:38.281374+09:00",
       "lastSeen": "2026-11-15T10:17:21.842055+09:00"
@@ -2243,200 +2605,6 @@
     },
     {
       "source": "나라장터",
-      "noticeNumber": "R26BK01830291",
-      "noticeOrder": "000",
-      "title": "가상원자로 웹 기반 열수력 해석 워크벤치 개발",
-      "agency": "한국과학기술정보연구원",
-      "publishedAt": "2026-11-13 17:04:17",
-      "due": "2026-11-23 15:00:00",
-      "budget": "180909091",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830291&bidPbancOrd=000",
-      "keywords": [
-        "연구"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "연구·정책"
-      ],
-      "relevance": 35,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830291:000",
-      "changeStatus": "신규",
-      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830297",
-      "noticeOrder": "000",
-      "title": "[혁신] 2026년 전문대학 혁신지원사업 자체평가 및 성과분석을 통한 혁신 방안 연구 용역",
-      "agency": "명지전문대학",
-      "publishedAt": "2026-11-13 17:04:30",
-      "due": "",
-      "budget": "59090909",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830297&bidPbancOrd=000",
-      "keywords": [
-        "연구",
-        "평가"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "연구·정책",
-        "자문·컨설팅"
-      ],
-      "relevance": 50,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830297:000",
-      "changeStatus": "신규",
-      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830472",
-      "noticeOrder": "000",
-      "title": "AEM-URFC 소재/스택 단위 정적/동적 전기화학적 성능평가기준(안) 도출 용역",
-      "agency": "전남대학교 산학협력단",
-      "publishedAt": "2026-11-13 18:04:45",
-      "due": "2026-11-24 10:00:00",
-      "budget": "90000000",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830472&bidPbancOrd=000",
-      "keywords": [
-        "평가"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "자문·컨설팅"
-      ],
-      "relevance": 35,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830472:000",
-      "changeStatus": "신규",
-      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830516",
-      "noticeOrder": "000",
-      "title": "2027년도 전자문서 및 행정지원시스템 위탁운영사업",
-      "agency": "중앙선거관리위원회",
-      "publishedAt": "2026-11-13 18:07:29",
-      "due": "2026-11-24 10:00:00",
-      "budget": "90909091",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830516&bidPbancOrd=000",
-      "keywords": [
-        "자문"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "자문·컨설팅"
-      ],
-      "relevance": 35,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830516:000",
-      "changeStatus": "신규",
-      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01829020",
-      "noticeOrder": "001",
-      "title": "하동군 투자유치 기본계획 수립용역",
-      "agency": "경상남도 하동군",
-      "publishedAt": "2026-11-13 18:18:05",
-      "due": "2026-11-26 17:00:00",
-      "budget": "443513445",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01829020&bidPbancOrd=001",
-      "keywords": [
-        "기본계획"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "연구·정책"
-      ],
-      "relevance": 35,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01829020:001",
-      "changeStatus": "신규",
-      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830550",
-      "noticeOrder": "000",
-      "title": "2027년 서울시 어울림플라자 종합관리용역(시설·미화)",
-      "agency": "(주)한국능률협회컨설팅",
-      "publishedAt": "2026-11-13 18:49:14",
-      "due": "2026-12-04 17:00:00",
-      "budget": "266363636",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830550&bidPbancOrd=000",
-      "keywords": [
-        "컨설팅"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "자문·컨설팅"
-      ],
-      "relevance": 35,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830550:000",
-      "changeStatus": "신규",
-      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01810894",
-      "noticeOrder": "001",
-      "title": "2027년 서울시 어울림플라자 종합관리용역(시설·미화)",
-      "agency": "(주)한국능률협회컨설팅",
-      "publishedAt": "2026-11-13 18:50:15",
-      "due": "2026-11-25 17:00:00",
-      "budget": "266363636",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01810894&bidPbancOrd=001",
-      "keywords": [
-        "컨설팅"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "자문·컨설팅"
-      ],
-      "relevance": 35,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01810894:001",
-      "changeStatus": "신규",
-      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830606",
-      "noticeOrder": "000",
-      "title": "스마트워킹시스템 고도화(모바일화 구현, 이해충돌방지 상세설계) 및 26년 유지보수 용역",
-      "agency": "한국철도기술연구원",
-      "publishedAt": "2026-11-13 20:20:07",
-      "due": "2026-11-24 11:00:00",
-      "budget": "90818182",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830606&bidPbancOrd=000",
-      "keywords": [
-        "연구"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "연구·정책"
-      ],
-      "relevance": 35,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830606:000",
-      "changeStatus": "신규",
-      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
       "noticeNumber": "R26BK01828603",
       "noticeOrder": "000",
       "title": "새만금 농업용수 공급공사(2공구) 지하안전영향평가 용역",
@@ -2939,174 +3107,6 @@
       "relevance": 35,
       "sourceStatus": "원문 확인 필요",
       "externalId": "g2b:R26BK01829843:000",
-      "changeStatus": "신규",
-      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830071",
-      "noticeOrder": "000",
-      "title": "경북도립미술관 건립 건설공사 타당성조사 및 건축기획 용역",
-      "agency": "경상북도",
-      "publishedAt": "2026-11-13 16:15:42",
-      "due": "2026-12-04 17:00:00",
-      "budget": "108804550",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830071&bidPbancOrd=000",
-      "keywords": [
-        "타당성조사"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "연구·정책"
-      ],
-      "relevance": 35,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830071:000",
-      "changeStatus": "신규",
-      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01829663",
-      "noticeOrder": "000",
-      "title": "2026년 법정도로 3종 교량 정밀안전진단 용역",
-      "agency": "경기도 가평군",
-      "publishedAt": "2026-11-13 16:22:51",
-      "due": "2026-11-19 10:00:00",
-      "budget": "248683636",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01829663&bidPbancOrd=000",
-      "keywords": [
-        "진단"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "자문·컨설팅"
-      ],
-      "relevance": 35,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01829663:000",
-      "changeStatus": "신규",
-      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830167",
-      "noticeOrder": "000",
-      "title": "[재공고] 한국교통연구원 월간교통 발간",
-      "agency": "한국교통연구원",
-      "publishedAt": "2026-11-13 16:31:44",
-      "due": "",
-      "budget": "177272727",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830167&bidPbancOrd=000",
-      "keywords": [
-        "연구"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "연구·정책"
-      ],
-      "relevance": 35,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830167:000",
-      "changeStatus": "신규",
-      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830091",
-      "noticeOrder": "000",
-      "title": "[사업수행능력평가서 제출] 반여4 자연재해위험개선지구 감독권한대행등 건설사업관리용역(긴급)",
-      "agency": "부산광역시 해운대구",
-      "publishedAt": "2026-11-13 17:07:05",
-      "due": "",
-      "budget": "1756700000",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830091&bidPbancOrd=000",
-      "keywords": [
-        "평가"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "자문·컨설팅"
-      ],
-      "relevance": 35,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830091:000",
-      "changeStatus": "신규",
-      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830285",
-      "noticeOrder": "000",
-      "title": "(긴급)후평일반산업단지 재생사업 사후환경영향조사 공사시 용역 집행계획 및 사업수행능력평가서 제출안내",
-      "agency": "강원특별자치도 춘천시",
-      "publishedAt": "2026-11-13 17:35:51",
-      "due": "",
-      "budget": "203592727",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830285&bidPbancOrd=000",
-      "keywords": [
-        "평가"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "자문·컨설팅"
-      ],
-      "relevance": 35,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830285:000",
-      "changeStatus": "신규",
-      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01830368",
-      "noticeOrder": "000",
-      "title": "안동시 남부권 소규모공공하수관로 기술진단용역",
-      "agency": "경상북도 안동시",
-      "publishedAt": "2026-11-13 17:37:47",
-      "due": "2026-11-24 10:00:00",
-      "budget": "197272728",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01830368&bidPbancOrd=000",
-      "keywords": [
-        "진단"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "자문·컨설팅"
-      ],
-      "relevance": 35,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01830368:000",
-      "changeStatus": "신규",
-      "firstSeen": "2026-11-13T23:44:34.823892+09:00",
-      "lastSeen": "2026-11-15T10:17:21.842055+09:00"
-    },
-    {
-      "source": "나라장터",
-      "noticeNumber": "R26BK01824490",
-      "noticeOrder": "002",
-      "title": "인천광역시 스마트 하수도 시스템  구축 감리 용역 집행계획 및 사업수행능력 평가서 제출안내 공고",
-      "agency": "인천광역시 환경국 하수과",
-      "publishedAt": "2026-11-13 18:18:02",
-      "due": "",
-      "budget": "987272727",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01824490&bidPbancOrd=002",
-      "keywords": [
-        "평가"
-      ],
-      "domains": [],
-      "businessTypes": [
-        "자문·컨설팅"
-      ],
-      "relevance": 35,
-      "sourceStatus": "원문 확인 필요",
-      "externalId": "g2b:R26BK01824490:002",
       "changeStatus": "신규",
       "firstSeen": "2026-11-13T23:44:34.823892+09:00",
       "lastSeen": "2026-11-15T10:17:21.842055+09:00"

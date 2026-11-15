@@ -1,6 +1,6 @@
 {
   "schema": "nj-notice-feed-v1",
-  "generatedAt": "2026-11-15T16:14:49.974470+09:00",
+  "generatedAt": "2026-11-15T22:02:13.184816+09:00",
   "source": "조달청 나라장터 용역 API",
   "scope": "최근 2일 수집 + 이전 후보 최대 2000건",
   "items": [

@@ -1,12 +1,10 @@
 {
   "schema": "nj-research-feed-v1",
-  "generatedAt": "2026-11-15T13:37:44.271825+00:00",
+  "generatedAt": "2026-11-16T02:10:17.646694+00:00",
   "source": "Configured public RSS/Atom feeds",
   "configuredSources": 4,
-  "successfulSources": 3,
-  "warnings": [
-    "과학기술정보통신부: TimeoutError: The read operation timed out"
-  ],
+  "successfulSources": 4,
+  "warnings": [],
   "items": [
     {
       "title": "연구보안 전담기관 지정계획 재공고",
@@ -877,6 +875,25 @@
       ]
     },
     {
+      "title": "2027년 실증시험 지원사업 후보과제 모집 공모",
+      "agency": "국방기술진흥연구소",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_list.do",
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6580&page=1&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
+      "publishedAt": "2026-11-16",
+      "summary": "",
+      "type": "사업공고·공지",
+      "domains": [
+        "국방·방산"
+      ],
+      "keywords": [
+        "공지사항"
+      ],
+      "board": "notice",
+      "sourceId": "6580",
+      "hasAttachment": true,
+      "urlStatus": "unverified"
+    },
+    {
       "title": "’26-2차 유망수출품목발굴 지원사업 참여기업 모집 연장 공고(추가연장)",
       "agency": "국방기술진흥연구소",
       "url": "https://www.krit.re.kr/krit/bbs/notice_list.do",
@@ -1102,7 +1119,7 @@
       "sourceId": "6557",
       "hasAttachment": true,
       "urlStatus": "unverified",
-      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6557&page=1&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000"
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6557&page=2&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000"
     },
     {
       "title": "’26-2차 유망수출품목발굴 지원사업 참여기업 모집 연장 공고",
@@ -1311,7 +1328,7 @@
       "sourceId": "6528",
       "hasAttachment": true,
       "urlStatus": "unverified",
-      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6528&page=2&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000"
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6528&page=3&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000"
     },
     {
       "title": "[전북·전주 방산혁신클러스터]  국방 소요 기반 첨단복합 소재·부품 개발사업 수행기관 모집 공고",

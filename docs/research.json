@@ -1,6 +1,6 @@
 {
   "schema": "nj-research-feed-v1",
-  "generatedAt": "2026-11-18T01:59:42.613737+00:00",
+  "generatedAt": "2026-11-18T07:58:26.243600+00:00",
   "source": "Configured public RSS/Atom feeds",
   "configuredSources": 4,
   "successfulSources": 4,
@@ -875,6 +875,25 @@
       ]
     },
     {
+      "title": "「2026 美FCT 초청 G2B 오프라인 설명회」참여기업 신청 공고",
+      "agency": "국방기술진흥연구소",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_list.do",
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6584&page=1&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
+      "publishedAt": "2026-11-18",
+      "summary": "",
+      "type": "사업공고·공지",
+      "domains": [
+        "국방·방산"
+      ],
+      "keywords": [
+        "공지사항"
+      ],
+      "board": "notice",
+      "sourceId": "6584",
+      "hasAttachment": true,
+      "urlStatus": "unverified"
+    },
+    {
       "title": "2027년 실증시험 지원사업 후보과제 모집 공모",
       "agency": "국방기술진흥연구소",
       "url": "https://www.krit.re.kr/krit/bbs/notice_list.do",
@@ -1100,7 +1119,7 @@
       "sourceId": "6560",
       "hasAttachment": true,
       "urlStatus": "unverified",
-      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6560&page=1&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000"
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6560&page=2&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000"
     },
     {
       "title": "2026년 하반기 절충교역 수출상담회 참여 희망업체 모집 공고",
@@ -1309,7 +1328,7 @@
       "sourceId": "6529",
       "hasAttachment": true,
       "urlStatus": "unverified",
-      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6529&page=2&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000"
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6529&page=3&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000"
     },
     {
       "title": "[전북·전주 방산혁신클러스터] 극한환경 내열소재‧부품 시험평가 장비 구축 사업 수행기관 모집 공고",

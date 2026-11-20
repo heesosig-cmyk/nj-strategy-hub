@@ -1,10 +1,10 @@
 {
   "schema": "nj-krit-feed-v1",
-  "generatedAt": "2026-11-20T01:54:21.877087+00:00",
+  "generatedAt": "2026-11-20T07:58:31.429894+00:00",
   "agency": "국방기술진흥연구소",
   "successfulBoards": 3,
   "boardCounts": {
-    "notice": 37,
+    "notice": 36,
     "regulatory": 30,
     "press": 30
   },

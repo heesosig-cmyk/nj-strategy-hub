@@ -1,10 +1,12 @@
 {
   "schema": "nj-research-feed-v1",
-  "generatedAt": "2026-11-23T14:04:43.818710+00:00",
+  "generatedAt": "2026-11-24T01:59:14.830170+00:00",
   "source": "Configured public RSS/Atom feeds",
   "configuredSources": 4,
-  "successfulSources": 4,
-  "warnings": [],
+  "successfulSources": 3,
+  "warnings": [
+    "과학기술정보통신부: TimeoutError: The read operation timed out"
+  ],
   "items": [
     {
       "title": "연구보안 전담기관 지정계획 재공고",

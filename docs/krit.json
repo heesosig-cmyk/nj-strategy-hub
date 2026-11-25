@@ -1,15 +1,72 @@
 {
   "schema": "nj-krit-feed-v1",
-  "generatedAt": "2026-11-25T08:11:30.712129+00:00",
+  "generatedAt": "2026-11-25T13:59:16.497808+00:00",
   "agency": "국방기술진흥연구소",
   "successfulBoards": 3,
   "boardCounts": {
-    "notice": 34,
+    "notice": 37,
     "regulatory": 30,
     "press": 30
   },
   "warnings": [],
   "items": [
+    {
+      "title": "제4회 K방산 미래 혁신 포럼",
+      "agency": "국방기술진흥연구소",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_list.do",
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6590&page=1&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
+      "publishedAt": "2026-11-25",
+      "summary": "",
+      "type": "사업공고·공지",
+      "domains": [
+        "국방·방산"
+      ],
+      "keywords": [
+        "공지사항"
+      ],
+      "board": "notice",
+      "sourceId": "6590",
+      "hasAttachment": true,
+      "urlStatus": "unverified"
+    },
+    {
+      "title": "방산수출 활성화를 위한 국내 방산업체 대상 설명회 안내",
+      "agency": "국방기술진흥연구소",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_list.do",
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6592&page=1&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
+      "publishedAt": "2026-11-25",
+      "summary": "",
+      "type": "사업공고·공지",
+      "domains": [
+        "국방·방산"
+      ],
+      "keywords": [
+        "공지사항"
+      ],
+      "board": "notice",
+      "sourceId": "6592",
+      "hasAttachment": true,
+      "urlStatus": "unverified"
+    },
+    {
+      "title": "방산 ESG와 사회적 가치 확산 포럼",
+      "agency": "국방기술진흥연구소",
+      "url": "https://www.krit.re.kr/krit/bbs/notice_list.do",
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6591&page=1&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
+      "publishedAt": "2026-11-25",
+      "summary": "",
+      "type": "사업공고·공지",
+      "domains": [
+        "국방·방산"
+      ],
+      "keywords": [
+        "공지사항"
+      ],
+      "board": "notice",
+      "sourceId": "6591",
+      "hasAttachment": true,
+      "urlStatus": "unverified"
+    },
     {
       "title": "「2026 美FCT 초청 G2B 오프라인 설명회」참여기업 신청 공고",
       "agency": "국방기술진흥연구소",
@@ -147,7 +204,7 @@
       "title": "[전북·전주 방산혁신클러스터] (장비)사업 수행 기관 모집 (재공고)",
       "agency": "국방기술진흥연구소",
       "url": "https://www.krit.re.kr/krit/bbs/notice_list.do",
-      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6567&page=1&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6567&page=2&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-30",
       "summary": "",
       "type": "사업공고·공지",
@@ -166,7 +223,7 @@
       "title": "[전북·전주 방산혁신클러스터]  국방소요기반 첨단복합 소재·부품 개발 과제 수행기업 모집(재공고)",
       "agency": "국방기술진흥연구소",
       "url": "https://www.krit.re.kr/krit/bbs/notice_list.do",
-      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6566&page=1&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6566&page=2&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-30",
       "summary": "",
       "type": "사업공고·공지",
@@ -185,7 +242,7 @@
       "title": "[인천 방산혁신클러스터사업] AI 항공(대드론) 수행기관 공고문(재공고)",
       "agency": "국방기술진흥연구소",
       "url": "https://www.krit.re.kr/krit/bbs/notice_list.do",
-      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6561&page=1&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6561&page=2&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-30",
       "summary": "",
       "type": "사업공고·공지",
@@ -375,7 +432,7 @@
       "title": "[공군 군수사령부] ‘26년 후반기 부품 견본 전시회 운영계획 및 개발신청 접수 안내",
       "agency": "국방기술진흥연구소",
       "url": "https://www.krit.re.kr/krit/bbs/notice_list.do",
-      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6540&page=2&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6540&page=3&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-19",
       "summary": "",
       "type": "사업공고·공지",
@@ -394,7 +451,7 @@
       "title": "「2026 美 FCT 온라인 설명회」참여기업 모집 공고",
       "agency": "국방기술진흥연구소",
       "url": "https://www.krit.re.kr/krit/bbs/notice_list.do",
-      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6539&page=2&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6539&page=3&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-16",
       "summary": "",
       "type": "사업공고·공지",
@@ -489,7 +546,7 @@
       "title": "[전북·전주 방산혁신클러스터]  국방 소요 기반 첨단복합 소재·부품 개발사업 수행기관 모집 공고",
       "agency": "국방기술진흥연구소",
       "url": "https://www.krit.re.kr/krit/bbs/notice_list.do",
-      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6530&page=2&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
+      "originalDetailUrl": "https://www.krit.re.kr/krit/bbs/notice_view.do?bbsId=notice&article_category=&nttId=6530&page=3&searchCnd=&searchWrd=&startd=&endd=&csrf=&menu_no=05010000",
       "publishedAt": "2026-10-12",
       "summary": "",
       "type": "사업공고·공지",
